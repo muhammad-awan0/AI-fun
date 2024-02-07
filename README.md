@@ -1,2 +1,2 @@
 # AI-paper-implmentations
-Hello! Welcome to my AI / ML paper implementation repo where I code out popular and recent research papers for learning. Enjoy!
+Hello! Welcome to my AI / ML paper implementation repo where I code out popular and recent research papers for learning from time to time. Starting out with "Attention Is All You Need" by Ashish Vaswani et al. (2023), I aim to dive deep into the groundbreaking transformer and the field of natural language processing. The paper will be fully implemented in a jupyter notebook, complete with annotations. Enjoy! 
